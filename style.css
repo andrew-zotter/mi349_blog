@@ -25,6 +25,21 @@ h1  {
 
 }
 
+.sticky, .position-demo {
+    color: white;
+    padding: 20px;
+}
+
+.sticky {
+    background: blue;
+
+}
+
+.position-demo {
+    background: green;
+    position: static;
+}
+
 p {
 line-height: 1.4em;
 width: 200px;
