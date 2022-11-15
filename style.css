@@ -55,6 +55,14 @@ border-top: 1px dotted #ccc;
     border-top: 1px dotted #ccc;
 }
 
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+
+}
+
 
 
     
